@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-print("hello world")
-
 l = open("letters.txt", "r")
 
 while True:
